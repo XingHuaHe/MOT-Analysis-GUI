@@ -1,0 +1,7 @@
+Average Precision  (AP) @[IoU=0.50:0.95 | maxDets=500] = 77.39%
+Average Precision  (AP) @[IoU=0.50      | maxDets=500] = 100.0%
+Average Precision  (AP) @[IoU=0.75      | maxDets=500] = 99.37%
+Average Recall     (AP) @[IoU=0.50:0.95 | maxDets=1  ] = 28.76%
+Average Recall     (AP) @[IoU=0.50:0.95 | maxDets=1  ] = 28.76%
+Average Recall     (AP) @[IoU=0.50:0.95 | maxDets=1  ] = 28.76%
+Average Recall     (AP) @[IoU=0.50:0.95 | maxDets=1  ] = 28.76%
